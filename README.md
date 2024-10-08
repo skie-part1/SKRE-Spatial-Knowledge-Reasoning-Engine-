@@ -1,4 +1,4 @@
-This is the dataset for dataset for Spatial Knowledge Reasoning Engine.
+This is the dataset for Spatial Knowledge Reasoning Engine.
 This project is funded by Korea Ministry of Land, Infrastructure, and Transport. 
 And under control of Korea Agency for Infrastructure Technology Advancement.
 
